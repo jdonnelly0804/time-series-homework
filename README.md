@@ -5,6 +5,10 @@
 [Notebook](https://colab.research.google.com/drive/1hGwWsQIt3ZfAu3XaDD6_Hgu0P9xDJt6R#scrollTo=pt-JEuuIiGuE)
 >
 I will be doing a writeup including my findings and the relevant graphs/visualizations to answer questions below:
+>
+-Questions will be posed in bold
+>
+-Answers will be posed in italics
 
 ---
 
@@ -20,3 +24,16 @@ The above image shows the google search trends for MercadoLibre for the month of
 ---
 
 ## Step 2: Mine the Search Traffic Data for Seasonality
+![heatmap](Images/heatmap.PNG)
+>
+The above heatmap shows the search trends for MercardoLibre based off the hour as well as the day of the week.
+>
+**Does any day-of-week effect that you observe concentrate in just a few hours of that day?**
+>
+*It seems that despite the day of the week, the search trends look pretty much similar across all times of the day*
+>
+![mean_by_week](Images/mean_by_week.PNG)
+>
+**Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?**
+>
+*The search traffic does appear to have a sharp increase in the winter holiday period, followed by a steep drop off at the last week of the year*
