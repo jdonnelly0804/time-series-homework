@@ -9,7 +9,7 @@ I will be doing a writeup including my findings and the relevant graphs/visualiz
 ---
 
 ## Step 1: Find Unusual Patterns in Hourly Google Search Traffic
-![may_2020](images/may_2020data.PNG)
+![may_2020](Images/may_2020data.PNG)
 >
 The above image shows the google search trends for MercadoLibre for the month of May 2020. The total searches for the month was 38,181, the median searches for each month of the year was 35,172.5. 
 
