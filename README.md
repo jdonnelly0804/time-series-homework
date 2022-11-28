@@ -54,3 +54,26 @@ The above image shows both the search trends and closing value for Mercdo sliced
 **Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?**
 >
 *The relationship between lagged search trends and stock volatility does have a somewhat predictable relationship with a negative correlation of -.1489. However, the relationship between lagged search traffic and stock price returns is very small and not very predictable.*
+
+---
+
+## Step 4: Create a Time Series Model with Prophet
+![plot](Images/plot.PNG)
+>
+**How's the near-term forecast for the popularity of MercadoLibre?**
+>
+*The near-term forecast for the popularity of MercadoLibre seems to be decreasing in the short-term**
+>
+![plot](Images/4plot.PNG)
+>
+**What time of day exhibits the greatest popularity?**
+>
+*It appears that midnight exhibits the greatest popularity, weening off until 6AM.*
+>
+**Which day of week gets the most search traffic?**
+>
+*Tuesday gets the most traffic out of any day*
+>
+**What's the lowest point for search traffic in the calendar year?**
+>
+*The lowest point for search traffic in the year appears to occur between september and november, so likely sometime in October*
