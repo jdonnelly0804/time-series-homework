@@ -37,3 +37,20 @@ The above heatmap shows the search trends for MercardoLibre based off the hour a
 **Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?**
 >
 *The search traffic does appear to have a sharp increase in the winter holiday period, followed by a steep drop off at the last week of the year*
+
+---
+
+## Step 3: Relate the Search Traffic to Stock Price Patterns
+![search_trend_close](Images/search_trend_close.PNG)
+>
+The above image shows both the search trends and closing value for Mercdo sliced at a timeframe during which the covid crisis occured. 
+>
+**Do both time series indicate a common trend that’s consistent with this narrative?**
+>
+*Both of these charts do confirm the narrative that sales dropped off during the covid crash and then increased back to higher levels after online sales began to become more popular, the drop off and subsequent increase can be seen in both search trends and closing price*
+>
+![volatility](Images/volatility.PNG)
+>
+**Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?**
+>
+*The relationship between lagged search trends and stock volatility does have a somewhat predictable relationship with a negative correlation of -.1489. However, the relationship between lagged search traffic and stock price returns is very small and not very predictable.*
